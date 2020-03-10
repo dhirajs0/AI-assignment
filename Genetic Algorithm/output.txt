@@ -1,0 +1,35 @@
+Enter number of students: 30
+group 1:79 group 2:33 group 3 : 15 fitness : 229  
+GROUP-1
+student 0 : 98
+student 2 : 81
+student 3 : 78
+student 8 : 76
+student 12 : 97
+student 13 : 66
+student 14 : 69
+student 16 : 64
+student 19 : 79
+student 24 : 87
+student 25 : 94
+student 27 : 60
+student 28 : 81
+GROUP-2
+student 4 : 46
+student 7 : 33
+student 9 : 32
+student 10 : 29
+student 15 : 50
+student 17 : 43
+student 18 : 28
+student 20 : 28
+student 22 : 24
+student 29 : 32
+GROUP-3
+student 1 : 15
+student 5 : 2
+student 6 : 13
+student 11 : 14
+student 21 : 5
+student 23 : 5
+student 26 : 18
