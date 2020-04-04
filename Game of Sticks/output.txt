@@ -1,0 +1,46 @@
+Welcome to the Game of Sticks!
+The game mode by number:
+  (1) Human vs AI 
+  (2) AI vs AI
+> Your AI-1 is ready!!
+Your AI-2 is ready!!
+AI vs AI started....
+Number of sticks on the table initially (10-100)?
+> 15
+There are 15 sticks on the board.
+[1, 2, 3]
+AI-1: How many sticks will you take (1-3)? 1
+
+There are 14 sticks on the board.
+[1, 2, 3]
+AI-2: How many sticks will you take (1-3)? 3
+
+There are 11 sticks on the board.
+[1, 2, 3]
+AI-1: How many sticks will you take (1-3)? 1
+
+There are 10 sticks on the board.
+[1, 2, 3]
+AI-2: How many sticks will you take (1-3)? 1
+
+There are 9 sticks on the board.
+[1, 2, 3]
+AI-1: How many sticks will you take (1-3)? 3
+
+There are 6 sticks on the board.
+[1, 2, 3]
+AI-2: How many sticks will you take (1-3)? 1
+
+There are 5 sticks on the board.
+[1, 2, 3]
+AI-1: How many sticks will you take (1-3)? 3
+
+There are 2 sticks on the board.
+[1, 2, 3]
+AI-2: How many sticks will you take (1-3)? 2
+AI-1 Loses....
+AI-2 Wins....
+Play again? [Y/n]: 
+See You....
+
+
